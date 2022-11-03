@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactWebProject/static/css/main.dea520a6.css",
+    "main.js": "/ReactWebProject/static/js/main.5c461743.js",
+    "index.html": "/ReactWebProject/index.html",
+    "main.dea520a6.css.map": "/ReactWebProject/static/css/main.dea520a6.css.map",
+    "main.5c461743.js.map": "/ReactWebProject/static/js/main.5c461743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea520a6.css",
+    "static/js/main.5c461743.js"
+  ]
+}
